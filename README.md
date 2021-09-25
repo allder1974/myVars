@@ -1,0 +1,2 @@
+# myVars
+Test vars
